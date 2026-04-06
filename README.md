@@ -1,2 +1,3 @@
-# server
-php
+# php_study
+
+Обучение PHP
